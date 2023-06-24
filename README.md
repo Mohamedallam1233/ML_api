@@ -9,6 +9,7 @@ To use the Machine Learning Model API, please follow these steps:
 
 Installation
 To use the Machine Learning Model API, please follow these steps:
+
 1- Clone the repository from GitHub or download project folder:
 2- pip install -r requirements.txt
 run pred.py file
